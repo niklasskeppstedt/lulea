@@ -15,4 +15,7 @@ public class Main {
     private static void printHelloNorway() {
         System.out.println("Hello Norway");
     }
+    private static void printHelloIceland() {
+        System.out.println("Hello Iceland");
+    }
 }
