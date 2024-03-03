@@ -12,4 +12,7 @@ public class Main {
     private static void printHelloDenmark() {
         System.out.println("Hello Denmark");
     }
+    private static void printHelloNorway() {
+        System.out.println("Hello Norway");
+    }
 }
